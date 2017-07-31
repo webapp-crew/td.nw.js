@@ -9,7 +9,7 @@ Installation Instructions:
 	8.	open the directory named like the .zip file [nw.js directory]
 	9.	copy the contents of this directory / archive into the nw.js directory
 	10.	run the executable named nw [ie.e. nw.exe under Windows, nw under linux] - linux users have to make shure the file named nw is made executeable.
-	11. now you have a dedicaded Tweetdeck native client. Now log-in with your regular Twitter credentials. You may tick on the "remember me" checkbox at the login
+	11.     now you have a dedicaded Tweetdeck native client. Now log-in with your regular Twitter credentials. You may tick on the "remember me" checkbox at the login
 	12.	Your Tweetdeck Native Client is now ready.
 
 Additional Steps under Ubuntu
@@ -24,5 +24,5 @@ Additional Steps under Ubuntu
 	9.	Add Name in the first Field
 	10.	select the nw file in your nw.js directory in the 3rd field.
 	11.	make shure "run in terminal" and "hide in menu" are tocked off
-	12. click on the save icon [next to the plus icon]
+	12.     click on the save icon [next to the plus icon]
 	13.	you can now lauch Tweetdeck from your dash, and/or add a shortcut to desktop and launcher.
